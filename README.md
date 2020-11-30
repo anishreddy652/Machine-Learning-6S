@@ -1,3 +1,4 @@
-# Machine-Learning-6S
+# Stock Value Prediction Using LSTMs
+
 
 
